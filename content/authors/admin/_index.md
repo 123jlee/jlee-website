@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Day trader and digital builder. Exploring the intersection of capital markets and automated workflows.
+bio: I work at the intersection of markets, data, and decision-making. My background spans growth strategy, quantitative analysis, and performance-driven media work in large, competitive environments. I’m most interested in turning complexity into clear decisions and durable outcomes.
 
 #interests:
 #- Artificial Intelligence
@@ -66,4 +66,4 @@ social:
 #email: ""
 ---
 
-Day trader and digital builder. Exploring the intersection of capital markets and automated workflows.
+I work at the intersection of markets, data, and decision-making. My background spans growth strategy, quantitative analysis, and performance-driven media work in large, competitive environments. I’m most interested in turning complexity into clear decisions and durable outcomes.
